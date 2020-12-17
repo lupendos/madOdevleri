@@ -1,0 +1,2 @@
+# madOdevleri
+Ödevleri buradan inceleyebilirsiniz
